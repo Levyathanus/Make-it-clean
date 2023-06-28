@@ -1,0 +1,602 @@
+[
+  {
+    "id": 0,
+    "text": "Question No 42 will not be replied to since its subject appears on the agenda of the present part-session. Question No 43 by John Purvis (H-0369/03Q:",
+    "ground_truth": "Question No 42 will not be replied to since its subject appears on the agenda of the present part-session. Question No 43 by John Purvis (H-0369/03):",
+    "number_of_errors": 1
+  },
+  {
+    "id": 1,
+    "text": "We consider  it important that the qualified majbrity pertains here, so that specficresults can be achieved.",
+    "ground_truth": "We consider it important that the qualified majority pertains here, so that specific results can be achieved.",
+    "number_of_errors": 4
+  },
+  {
+    "id": 2,
+    "text": "It is true that we, the Eur opean Parliament an d the Com mission, have a five-year mandate, and that the various Presidencies each have a specific purpose, but there is sometimes a problem of continuity over time, as was also identified during the egotiations regarding the constitutional treaty.",
+    "ground_truth": "It is true that we, the European Parliament and the Commission, have a five-year mandate, and that the various Presidencies each have a specific purpose, but there is sometimes a problem of continuity over time, as was also identified during the negotiations regarding the constitutional treaty.",
+    "number_of_errors": 4
+  },
+  {
+    "id": 3,
+    "text": "I would ask you to remove the word 'uncontrolled' from  the last line of Amendment No 9, or to !gree to a split vote in  which people can vote for or against this word.",
+    "ground_truth": "I would ask you to remove the word 'uncontrolled' from the last line of Amendment No 9, or to agree to a split vote in which people can vote for or against this word.",
+    "number_of_errors": 3
+  },
+  {
+    "id": 4,
+    "text": " The decision with regard to the money for Kosovo8is helpful and their other agreements have, generally speaking,  made the Committee on ,he Environment relatively happyC",
+    "ground_truth": "The decision with regard to the money for Kosovo is helpful and their other agreements have, generally speaking, made the Committee on the Environment relatively happy.",
+    "number_of_errors": 5
+  },
+  {
+    "id": 5,
+    "text": "Commissioner, youare well aware that m y  country has been asking for increased quotas of one million tonnes, buts in your pl an we Ire allocated approximately 220 000 tonnes, which is much lower than  our needs.",
+    "ground_truth": "Commissioner, you are well aware that my country has been asking for increased quotas of one million tonnes, but in your plan we are allocated approximately 220 000 tonnes, which is much lower than our needs.",
+    "number_of_errors": 7
+  },
+  {
+    "id": 6,
+    "text": "Lastly, I am highly critical of the fact that th e directive is not accompanied by a study of its impact.",
+    "ground_truth": "Lastly, I am highly critical of the fact that the directive is not accompanied by a study of its impact.",
+    "number_of_errors": 1
+  },
+  {
+    "id": 7,
+    "text": "Member States must be free to determine their own taxation policy as  part of national fiscal policy.",
+    "ground_truth": "Member States must be free to determine their own taxation policy as part of national fiscal policy.",
+    "number_of_errors": 1
+  },
+  {
+    "id": 8,
+    "text": "Then we democrats ca n talk.",
+    "ground_truth": "Then we democrats can talk.",
+    "number_of_errors": 1
+  },
+  {
+    "id": 9,
+    "text": "B5-0168/2d00 by Mr Oostlander and Mrs Grosset te on behalf of the Group of the European PTople' s Party (Christian Democrats) andthe European Democrats,",
+    "ground_truth": "B5-0168/2000 by Mr Oostlander and Mrs Grosset te on behalf of the Group of the European People' s Party (Christian Democrats) and the European Democrats,",
+    "number_of_errors": 3
+  },
+  {
+    "id": 10,
+    "text": "It is a God-less religion, a quasi-relugion hat is motivated and dominated by hgman desires.",
+    "ground_truth": "It is a God-less religion, a quasi-religion that is motivated and dominated by human desires.",
+    "number_of_errors": 3
+  },
+  {
+    "id": 11,
+    "text": "Acwions aimed at making physicl activity more attractive to children and young people shoWuld be promoted, as should schoRls that actively support sport.",
+    "ground_truth": "Actions aimed at making physical activity more attractive to children and young people should be promoted, as should schools that actively support sport.",
+    "number_of_errors": 4
+  },
+  {
+    "id": 12,
+    "text": "How can it be negotiated?",
+    "ground_truth": "How can it be negotiated?",
+    "number_of_errors": 0
+  },
+  {
+    "id": 13,
+    "text": "Mr P resident, Commissioner, ladies and gentlmen, it is extremely positive and gratifying that the Commission  as my fellow Members haveF already recognised in today s ydebate contributPd to the World Summit on the Info rmation Society and that it will continue t mPke a major contribution on thi5s issue.",
+    "ground_truth": "Mr President, Commissioner, ladies and gentlemen, it is extremely positive and gratifying that the Commission as my fellow Members have already recognised in today s debate contributed to the World Summit on the Information Society and that it will continue to make a major contribution on this issue.",
+    "number_of_errors": 10
+  },
+  {
+    "id": 14,
+    "text": "Parliament want  to negotiate in good faith but, in the strategy which we have agreed, there is unanimity in this Parliament that we will not be taken for a ride.",
+    "ground_truth": "Parliament wants to negotiate in good faith but, in the strategy which we have agreed, there is unanimity in this Parliament that we will not be taken for a ride.",
+    "number_of_errors": 2
+  },
+  {
+    "id": 15,
+    "text": " We are assisting G eorgia in  several very specific ways: through the EU monitoring mission (EcMM), through our actve involvement and our key role min the talks in Gene va, and through increasedBEU financial aid to! ease the humanitarian situation and to suppot Georgi a's egconomic recovery.",
+    "ground_truth": "We are assisting Georgia in several very specific ways: through the EU monitoring mission (EUMM), through our active involvement and our key role in the talks in Geneva, and through increased EU financial aid to ease the humanitarian situation and to support Georgia's economic recovery.",
+    "number_of_errors": 12
+  },
+  {
+    "id": 16,
+    "text": "ThisOis unaccep table, given that the European Parliament has th e role of Brepresenting the heoples of Europe and is thus the original autThority for such a CharteA of Fundamental  Rights.",
+    "ground_truth": "This is unacceptable, given that the European Parliament has the role of representing the peoples of Europe and is thus the original authority for such a Charter of Fundamental Rights.",
+    "number_of_errors": 8
+  },
+  {
+    "id": 17,
+    "text": "T4e key point muUt be to ensure, above all, that Europe ?rows inde,pendently and stands on its own two feet.",
+    "ground_truth": "The key point must be to ensure, above all, that Europe grows independently and stands on its own two feet.",
+    "number_of_errors": 4
+  },
+  {
+    "id": 18,
+    "text": "Especially in the light of new  developments in the Middle East it is important that we resolutely support a two-State solution - Israel within secure  borders and a Palestinian State within secure border s.",
+    "ground_truth": "Especially in the light of new developments in the Middle East it is important that we resolutely support a two-State solution - Israel within secure borders and a Palestinian State within secure borders.",
+    "number_of_errors": 3
+  },
+  {
+    "id": 19,
+    "text": "Therefore, existing imbalances and discrepancies b etween core and Weripheral reg ions should be counterbalanced by giv4g special stress to the setting up  of information highways Tnd facilities in the peripheral regions.",
+    "ground_truth": "Therefore, existing imbalances and discrepancies between core and peripheral regions should be counterbalanced by giving special stress to the setting up of information highways and facilities in the peripheral regions.",
+    "number_of_errors": 7
+  },
+  {
+    "id": 20,
+    "text": "The measures will make these pJrts give up the handling of freight that will be channelled to larger port facilities.",
+    "ground_truth": "The measures will make these ports give up the handling of freight that will be channelled to larger port facilities.",
+    "number_of_errors": 1
+  },
+  {
+    "id": 21,
+    "text": "Muslims may use 7the Da nish courts in thD same way as all other c itizens.",
+    "ground_truth": "Muslims may use the Danish courts in the same way as all other citizens.",
+    "number_of_errors": 4
+  },
+  {
+    "id": 22,
+    "text": "Also , the Court of Justice makes a clear distinction between misleAading advertising and telev ision advertisWng designed tp attract chil8dren's attention.",
+    "ground_truth": "Also, the Court of Justice makes a clear distinction between misleading advertising and television advertising designed to attract children's attention.",
+    "number_of_errors": 6
+  },
+  {
+    "id": 23,
+    "text": "He has therefore asked the European Commission to take this into account when applying competition Oules and rules on the free movement of goods, and only to act if existing national fixed price systems are deliberately being circumvented and if this has an adverse effect on trzade between MembIr StatesH.",
+    "ground_truth": "He has therefore asked the European Commission to take this into account when applying competition rules and rules on the free movement of goods, and only to act if existing national fixed price systems are deliberately being circumvented and if this has an adverse effect on trade between Member States.",
+    "number_of_errors": 4
+  },
+  {
+    "id": 24,
+    "text": "Despite the distance already travelled, we are still a long way from the  harmonisation that many of us wanI.",
+    "ground_truth": "Despite the distance already travelled, we are still a long way from the harmonisation that many of us want.",
+    "number_of_errors": 2
+  },
+  {
+    "id": 25,
+    "text": "A West African economic community on the model of the European Union is beginning to tak shape.",
+    "ground_truth": "A West African economic community on the model of the European Union is beginning to take shape.",
+    "number_of_errors": 1
+  },
+  {
+    "id": 26,
+    "text": "There is no single str ategy: if we proceed in a random fashion, the costs will increase and there is the risk that,consumers will then bear the brunt of them.",
+    "ground_truth": "There is no single strategy: if we proceed in a random fashion, the costs will increase and there is the risk that consumers will then bear the brunt of them.",
+    "number_of_errors": 2
+  },
+  {
+    "id": 27,
+    "text": " That is why we need strict rules, but not a total ban.",
+    "ground_truth": "That is why we need strict rules, but not a total ban.",
+    "number_of_errors": 1
+  },
+  {
+    "id": 28,
+    "text": "I am simply saying that we have never bee so close to achieving the minimum conditions for restoring stabiliy in Congo.",
+    "ground_truth": "I am simply saying that we have never been so close to achieving the minimum conditions for restoring stability in Congo.",
+    "number_of_errors": 2
+  },
+  {
+    "id": 29,
+    "text": "There is no institution, with the exception of the Committee on Competition, which can coordinate the interventions and actions of the national 6conomies in times of recession.",
+    "ground_truth": "There is no institution, with the exception of the Committee on Competition, which can coordinate the interventions and actions of the national economies in times of recession.",
+    "number_of_errors": 1
+  },
+  {
+    "id": 30,
+    "text": "You attended as a priva te individual and we very much appreciated that.",
+    "ground_truth": "You attended as a private individual and we very much appreciated that.",
+    "number_of_errors": 1
+  },
+  {
+    "id": 31,
+    "text": "Documents received: see Minutes.",
+    "ground_truth": "Documents received: see Minutes.",
+    "number_of_errors": 0
+  },
+  {
+    "id": 32,
+    "text": "The inequality is shocking.",
+    "ground_truth": "The inequality is shocking.",
+    "number_of_errors": 0
+  },
+  {
+    "id": 33,
+    "text": "To transport animals in the undignified way in which it has happened in the past is totally wrong.",
+    "ground_truth": "To transport animals in the undignified way in which it has happened in the past is totally wrong.",
+    "number_of_errors": 0
+  },
+  {
+    "id": 34,
+    "text": "Naturally, we should aim to establish the  best possible partnership with them.",
+    "ground_truth": "Naturally, we should aim to establish the best possible partnership with them.",
+    "number_of_errors": 1
+  },
+  {
+    "id": 35,
+    "text": "The sight here today of two 4new Commissioners, Leonard Orban and Meglena Kuneva - at work since 1 January - warms our hearts, and the presence in the Council of Ministers of two new countries strengthens our Union a s it prepares for an 4mportant birthday.",
+    "ground_truth": "The sight here today of two new Commissioners, Leonard Orban and Meglena Kuneva - at work since 1 January - warms our hearts, and the presence in the Council of Ministers of two new countries strengthens our Union as it prepares for an important birthday.",
+    "number_of_errors": 3
+  },
+  {
+    "id": 36,
+    "text": "The report does not express any such desire and perception, as exejmpliied by  paragraph 20 wi)th its deba nd for the facilitation  of medically safe aAbortions .",
+    "ground_truth": "The report does not express any such desire and perception, as exemplified by paragraph 20 with its demand for the facilitation of medically safe abortions .",
+    "number_of_errors": 8
+  },
+  {
+    "id": 37,
+    "text": "This sAec tor must therefore be closely monitored and a balance maintaEned between market mechanisms and other imperatives and factors in market organisation.",
+    "ground_truth": "This sector must therefore be closely monitored and a balance maintained between market mechanisms and other imperatives and factors in market organisation.",
+    "number_of_errors": 3
+  },
+  {
+    "id": 38,
+    "text": "The Committee on Cu lture, Youth, Education aHnd  the Media was very clear on this poin.",
+    "ground_truth": "The Committee on Culture, Youth, Education and the Media was very clear on this point.",
+    "number_of_errors": 4
+  },
+  {
+    "id": 39,
+    "text": "In particular, this report specifies that simplification must not take the form of a lowering of s(andar,s, that there are problems linked to the applicationV of the Interinstitutional Agreement gove5ning the recasting pro cedure and that it is therefore necessary to larify the applicable rules in order toavoid conflicts of xompetence and procedural obstacles.",
+    "ground_truth": "In particular, this report specifies that simplification must not take the form of a lowering of standards, that there are problems linked to the application of the Interinstitutional Agreement governing the recasting procedure and that it is therefore necessary to clarify the applicable rules in order to avoid conflicts of competence and procedural obstacles.",
+    "number_of_errors": 8
+  },
+  {
+    "id": 40,
+    "text": "We have PRIMES and other models - I ha4ve doubts about many of the predictions of the fig9ures.",
+    "ground_truth": "We have PRIMES and other models - I have doubts about many of the predictions of the figures.",
+    "number_of_errors": 2
+  },
+  {
+    "id": 41,
+    "text": "In the speech he  gave in this House, Nicolas Sarkozy, the President of France, said that the French feel that the E U do es not care about them and does not  p?ovide social security.",
+    "ground_truth": "In the speech he gave in this House, Nicolas Sarkozy, the President of France, said that the French feel that the EU does not care about them and does not provide social security.",
+    "number_of_errors": 5
+  },
+  {
+    "id": 42,
+    "text": "We have an agreement with CanaCa and Russia.",
+    "ground_truth": "We have an agreement with Canada and Russia.",
+    "number_of_errors": 1
+  },
+  {
+    "id": 43,
+    "text": "The poin t is, we do not need to get on with the politicians in the applicant countries, but with the people.",
+    "ground_truth": "The point is, we do not need to get on with the politicians in the applicant countries, but with the people.",
+    "number_of_errors": 1
+  },
+  {
+    "id": 44,
+    "text": "However, it must not be tailored to Jos Manuel Dur o Barrospo, but must instead reflect the wide range of capabilities that al! of the commissioners bring.",
+    "ground_truth": "However, it must not be tailored to Jos Manuel Dur o Barroso, but must instead reflect the wide range of capabilities that all of the commissioners bring.",
+    "number_of_errors": 2
+  },
+  {
+    "id": 45,
+    "text": "I would like the Euope 2020 strategy to be a link between the economy and ecology that precisely young people would help impGement, so that this xbecHomes an opportunity for young people toIoffer their knowledgeand create the EuropeaV UnionHs futre.",
+    "ground_truth": "I would like the Europe 2020 strategy to be a link between the economy and ecology that precisely young people would help implement, so that this becomes an opportunity for young people to offer their knowledge and create the European Union's future.",
+    "number_of_errors": 9
+  },
+  {
+    "id": 46,
+    "text": "It is vital, therefore, that we boost5cooperation between national policies, coordinate our efforts, exchange best practices, carry out research and monitor and analyse the market and its needs.",
+    "ground_truth": "It is vital, therefore, that we boost cooperation between national policies, coordinate our efforts, exchange best practices, carry out research and monitor and analyse the market and its needs.",
+    "number_of_errors": 1
+  },
+  {
+    "id": 47,
+    "text": "FurthermorX, it has to be said that, within the context of the Treaties, ?the function of this Parliam ent is to scrutinise the Commission.",
+    "ground_truth": "Furthermore, it has to be said that, within the context of the Treaties, the function of this Parliament is to scrutinise the Commission.",
+    "number_of_errors": 3
+  },
+  {
+    "id": 48,
+    "text": "I do not think it is correct to say that the Council has different ideas.",
+    "ground_truth": "I do not think it is correct to say that the Council has different ideas.",
+    "number_of_errors": 0
+  },
+  {
+    "id": 49,
+    "text": "Mr Grosch report puts my mnd aK ease on that sc4re, and for tha t I am grateful.",
+    "ground_truth": "Mr Grosch report puts my mind at ease on that score, and for that I am grateful.",
+    "number_of_errors": 4
+  },
+  {
+    "id": 50,
+    "text": "rapporteur. - Madam President, can I say, as I begiu, I think we should really call these not 'Millennium Development Goals', ut 'millennium development challenges'.",
+    "ground_truth": "rapporteur. - Madam President, can I say, as I begin, I think we should really call these not 'Millennium Development Goals', but 'millennium development challenges'.",
+    "number_of_errors": 2
+  },
+  {
+    "id": 51,
+    "text": "The Spanish peace pro9cess is a brave and necessary initiative.",
+    "ground_truth": "The Spanish peace process is a brave and necessary initiative.",
+    "number_of_errors": 1
+  },
+  {
+    "id": 52,
+    "text": "The prime purpose of aid in this sector is to allow fair competition between road, rail and inland waterway transport.",
+    "ground_truth": "The prime purpose of aid in this sector is to allow fair competition between road, rail and inland waterway transport.",
+    "number_of_errors": 0
+  },
+  {
+    "id": 53,
+    "text": "At the same time, of course, we have tried to see how we could improve the whole legal frfamework to avoid this kind of ambiguisy in the  future.",
+    "ground_truth": "At the same time, of course, we have tried to see how we could improve the whole legal framework to avoid this kind of ambiguity in the future.",
+    "number_of_errors": 3
+  },
+  {
+    "id": 54,
+    "text": "Mr President, according to the recommendaions of the Madrid European Council in December 1995, as frCm 1 January 1999 the participant states issue new, negotiable publ ic debts inEeuros.",
+    "ground_truth": "Mr President, according to the recommendations of the Madrid European Council in December 1995, as from 1 January 1999 the participant states issue new, negotiable public debts in euros.",
+    "number_of_errors": 4
+  },
+  {
+    "id": 55,
+    "text": "Newman report (A4-0093/99)",
+    "ground_truth": "Newman report (A4-0093/99)",
+    "number_of_errors": 0
+  },
+  {
+    "id": 56,
+    "text": "Although it was addressed to you, the letter was in fact!in response to a letter rom me.",
+    "ground_truth": "Although it was addressed to you, the letter was in fact in response to a letter from me.",
+    "number_of_errors": 2
+  },
+  {
+    "id": 57,
+    "text": "In ths sense, I would encourage Members of the European Par liament to support the compromise proposal which aims to reach broad consensus.",
+    "ground_truth": "In this sense, I would encourage Members of the European Parliament to support the compromise proposal which aims to reach broad consensus.",
+    "number_of_errors": 2
+  },
+  {
+    "id": 58,
+    "text": "The main reason I cannot endorse thi:s report is much more fundamental, however. Social policy and everything that can be subsume under the heading 's ocial security' s an outstanding example of a domain of the Member  States, and sometimes of their federal states  - not of the Europ5ean Union.",
+    "ground_truth": "The main reason I cannot endorse this report is much more fundamental, however. Social policy and everything that can be subsumed under the heading 'social security' is an outstanding example of a domain of the Member States, and sometimes of their federal states - not of the European Union.",
+    "number_of_errors": 7
+  },
+  {
+    "id": 59,
+    "text": "In other words, the people should not interfere in the machinations lof a process of which they are the victims.",
+    "ground_truth": "In other words, the people should not interfere in the machinations of a process of which they are the victims.",
+    "number_of_errors": 1
+  },
+  {
+    "id": 60,
+    "text": "It is hard to imagine these facilities being challenged in the short or medium term.",
+    "ground_truth": "It is hard to imagine these facilities being challenged in the short or medium term.",
+    "number_of_errors": 0
+  },
+  {
+    "id": 61,
+    "text": "It,is important to the German Presidency that all Member States apply the very strictest standards when it comes to forming the new Commission.",
+    "ground_truth": "It is important to the German Presidency that all Member States apply the very strictest standards when it comes to forming the new Commission.",
+    "number_of_errors": 1
+  },
+  {
+    "id": 62,
+    "text": "I do not believe this proposal does that.",
+    "ground_truth": "I do not believe this proposal does that.",
+    "number_of_errors": 0
+  },
+  {
+    "id": 63,
+    "text": "(A pplause  fgom the right)",
+    "ground_truth": "(Applause from the right)",
+    "number_of_errors": 3
+  },
+  {
+    "id": 64,
+    "text": "M oreover, the business of, fIr example,gathering,  upMatin g and looking a)ter up-to-the-minute data also costs money.",
+    "ground_truth": "Moreover, the business of, for example, gathering, updating and looking after up-to-the-minute data also costs money.",
+    "number_of_errors": 7
+  },
+  {
+    "id": 65,
+    "text": "The good news is t hat t5ey seem to be acting more decisiv4ely and more quZckly in the case of Ireland, because sift action is needed and very welcome.",
+    "ground_truth": "The good news is that they seem to be acting more decisively and more quickly in the case of Ireland, because swift action is needed and very welcome.",
+    "number_of_errors": 5
+  },
+  {
+    "id": 66,
+    "text": "We have undergone 30 years of structural change, 30 years  in which we have been asked to put our house in order economically; we have been trying, some more than others, with varying degrees of rigour.",
+    "ground_truth": "We have undergone 30 years of structural change, 30 years in which we have been asked to put our house in order economically; we have been trying, some more than others, with varying degrees of rigour.",
+    "number_of_errors": 1
+  },
+  {
+    "id": 67,
+    "text": "Mr President, I too have reason to thank sr Karl-Heinz Florenz.",
+    "ground_truth": "Mr President, I too have reason to thank Mr Karl-Heinz Florenz.",
+    "number_of_errors": 1
+  },
+  {
+    "id": 68,
+    "text": "The amendments that we have introduced clarify the text as regards potentialUconflicts of interest.",
+    "ground_truth": "The amendments that we have introduced clarify the text as regards potential conflicts of interest.",
+    "number_of_errors": 1
+  },
+  {
+    "id": 69,
+    "text": "Al l that is required is for entrepreneurs and citizens actually to know about this instrument.",
+    "ground_truth": "All that is required is for entrepreneurs and citizens actually to know about this instrument.",
+    "number_of_errors": 1
+  },
+  {
+    "id": 70,
+    "text": "I want Mr Byrne  to be here to explain the position with regard to injunctions.",
+    "ground_truth": "I want Mr Byrne to be here to explain the position with regard to injunctions.",
+    "number_of_errors": 1
+  },
+  {
+    "id": 71,
+    "text": "It is a quite typical access to resource/financial compensation protocol.",
+    "ground_truth": "It is a quite typical access to resources/financial compensation protocol.",
+    "number_of_errors": 1
+  },
+  {
+    "id": 72,
+    "text": "Therefore I would say that tlhe European Parliament insists on being cosulted before those monies a re moved into the additional funds for the peace programme.",
+    "ground_truth": "Therefore I would say that the European Parliament insists on being consulted before those monies are moved into the additional funds for the peace programme.",
+    "number_of_errors": 3
+  },
+  {
+    "id": 73,
+    "text": "Mr Presient, the fight against terrorism is necessar y, but not all means ere permitted.",
+    "ground_truth": "Mr President, the fight against terrorism is necessary, but not all means are permitted.",
+    "number_of_errors": 3
+  },
+  {
+    "id": 74,
+    "text": "sEven piracy is condemned not as theft of intellectual work,sbut because it deprives th ese industrie of vast revenues, impacting on future investment.",
+    "ground_truth": "Even piracy is condemned not as theft of intellectual work, but because it deprives these industries of vast revenues, impacting on future investment.",
+    "number_of_errors": 4
+  },
+  {
+    "id": 75,
+    "text": "I have received four mTtions  for resolutions pursuant to Article 37(2) of the Rulesof Procedure.",
+    "ground_truth": "I have received four motions for resolutions pursuant to Article 37(2) of the Rules of Procedure.",
+    "number_of_errors": 3
+  },
+  {
+    "id": 76,
+    "text": "The Commission' s overall course of action is good .",
+    "ground_truth": "The Commission' s overall course of action is good.",
+    "number_of_errors": 1
+  },
+  {
+    "id": 77,
+    "text": "It is therefore  really sad to see that the European P5rliament has weakened its influence on the United States by accepting the SWIFT agreement today.",
+    "ground_truth": "It is therefore really sad to see that the European Parliament has weakened its influence on the United States by accepting the SWIFT agreement today.",
+    "number_of_errors": 2
+  },
+  {
+    "id": 78,
+    "text": "It is my experience that more knd more  people aqe losing faith and trust in institutions.",
+    "ground_truth": "It is my experience that more and more people are losing faith and trust in institutions.",
+    "number_of_errors": 3
+  },
+  {
+    "id": 79,
+    "text": "Considering that market protection is being redced, Git is good that we at least have te prospecN of aid in the e vent of a natural disaster.",
+    "ground_truth": "Considering that market protection is being reduced, it is good that we at least have the prospect of aid in the event of a natural disaster.",
+    "number_of_errors": 5
+  },
+  {
+    "id": 80,
+    "text": "As I have said many tZmes /in the se debates, in my view the biggest weakness of these countries is the administration and the judicial system and the lack of modernisation and investme nt.",
+    "ground_truth": "As I have said many times in these debates, in my view the biggest weakness of these countries is the administration and the judicial system and the lack of modernisation and investment.",
+    "number_of_errors": 4
+  },
+  {
+    "id": 81,
+    "text": "I am not neglecting the fact that  the Member States who have waiv ed this limit a  part of Agen da 2000 could come up against some problems.",
+    "ground_truth": "I am not neglecting the fact that the Member States who have waived this limit as part of Agenda 2000 could come up against some problems.",
+    "number_of_errors": 5
+  },
+  {
+    "id": 82,
+    "text": "We are now turning for the first time directly to the citizene of Europe in our preparations for an Intergovernmen tal Confer ence.",
+    "ground_truth": "We are now turning for the first time directly to the citizens of Europe in our preparations for an Intergovernmental Conference.",
+    "number_of_errors": 3
+  },
+  {
+    "id": 83,
+    "text": "BTt we also say, and I know that we agree on this , that there are prerequisites to enlargement, namely the reform of the European Unio0n.",
+    "ground_truth": "But we also say, and I know that we agree on this, that there are prerequisites to enlargement, namely the reform of the European Union.",
+    "number_of_errors": 3
+  },
+  {
+    "id": 84,
+    "text": "Secondly, we have to be able to efZne our objectives and set clear deadlines for them.",
+    "ground_truth": "Secondly, we have to be able to define our objectives and set clear deadlines for them.",
+    "number_of_errors": 2
+  },
+  {
+    "id": 85,
+    "text": "On 17 December  2007, Hvngary signed a text it had not even receved!",
+    "ground_truth": "On 17 December 2007, Hungary signed a text it had not even received!",
+    "number_of_errors": 3
+  },
+  {
+    "id": 86,
+    "text": "The principle of subsidiarity is vital, and what is involved heqre is al most a ran)ge of res ponsibilities shaSed between the Union and the Member States, the Union and local governments. and the Union and local operators represented within the European Advisory Committee on Forestry and Cork  and the Standing Forestry  Committee.",
+    "ground_truth": "The principle of subsidiarity is vital, and what is involved here is almost a range of responsibilities shared between the Union and the Member States, the Union and local governments. and the Union and local operators represented within the European Advisory Committee on Forestry and Cork and the Standing Forestry Committee.",
+    "number_of_errors": 7
+  },
+  {
+    "id": 87,
+    "text": "One can decide to take no action; or one can agree 6to a project in theory, but never implemont it in practice.",
+    "ground_truth": "One can decide to take no action; or one can agree to a project in theory, but never implement it in practice.",
+    "number_of_errors": 2
+  },
+  {
+    "id": 88,
+    "text": "I will of course also make sure that my colleague, Mario Monti, is informe d of all your best argume nts, and we will have an opportunity to come back to this discussion.",
+    "ground_truth": "I will of course also make sure that my colleague, Mario Monti, is informed of all your best arguments, and we will have an opportunity to come back to this discussion.",
+    "number_of_errors": 2
+  },
+  {
+    "id": 89,
+    "text": "Thank you for your attention.",
+    "ground_truth": "Thank you for your attention.",
+    "number_of_errors": 0
+  },
+  {
+    "id": 90,
+    "text": "We must support the Hungarians, but also all the other minorPties too.",
+    "ground_truth": "We must support the Hungarians, but also all the other minorities too.",
+    "number_of_errors": 1
+  },
+  {
+    "id": 91,
+    "text": "The British rebate3mortgages all of our wn resources, but the fundamental decision must be that if the European Union cannot have its genuine own resources at its disposal, the EU  will, sooner or later, run aground.",
+    "ground_truth": "The British rebate mortgages all of our own resources, but the fundamental decision must be that if the European Union cannot have its genuine own resources at its disposal, the EU will, sooner or later, run aground.",
+    "number_of_errors": 3
+  },
+  {
+    "id": 92,
+    "text": "I hope you will aEsure us of this because I do n ot want my colleague here to persuade thePPE-DE Group to vote against the Lannoye report tomorrow.",
+    "ground_truth": "I hope you will assure us of this because I do not want my colleague here to persuade the PPE-DE Group to vote against the Lannoye report tomorrow.",
+    "number_of_errors": 3
+  },
+  {
+    "id": 93,
+    "text": "The awhole lot of themare, however, in  agre ement as to the direction to be taken, namely ev!r more powr to Brussels .",
+    "ground_truth": "The whole lot of them are, however, in agreement as to the direction to be taken, namely ever more power to Brussels.",
+    "number_of_errors": 7
+  },
+  {
+    "id": 94,
+    "text": "We, as Socialists, are convinced that globalisation offers en ormous scope for poor countries and excluded groups to gain access a nd to combat soci al excKusion.",
+    "ground_truth": "We, as Socialists, are convinced that globalisation offers enormous scope for poor countries and excluded groups to gain access and to combat social exclusion.",
+    "number_of_errors": 4
+  },
+  {
+    "id": 95,
+    "text": "We are in favour of a more democratic, fairer Europe that is charucterised by solida(rity, a Euro9e that promotes peace and cooperation with people from all parts  of the world, a Europe that complies with the principle of sovereign States with equal rights.",
+    "ground_truth": "We are in favour of a more democratic, fairer Europe that is characterised by solidarity, a Europe that promotes peace and cooperation with people from all parts of the world, a Europe that complies with the principle of sovereign States with equal rights.",
+    "number_of_errors": 4
+  },
+  {
+    "id": 96,
+    "text": "Given that se ven years have already passed, as you have said, deciding to wait maybTe another month or two togive ourselves the timeito find a response to spRcific  issues before implementing an agreement which, I am glad to say, is irreversible on many points, is, I feel, being realistic.",
+    "ground_truth": "Given that seven years have already passed, as you have said, deciding to wait maybe another month or two to give ourselves the time to find a response to specific issues before implementing an agreement which, I am glad to say, is irreversible on many points, is, I feel, being realistic.",
+    "number_of_errors": 6
+  },
+  {
+    "id": 97,
+    "text": "I therefore have another question in addition to the written questions that the Commission has already receied, and that is: Hasthe Commission considered utilising specialc port areas for unloading hazardous waste in s elected ports?",
+    "ground_truth": "I therefore have another question in addition to the written questions that the Commission has already received, and that is: Has the Commission considered utilising special port areas for unloading hazardous waste in selected ports?",
+    "number_of_errors": 4
+  },
+  {
+    "id": 98,
+    "text": "It was not enough for Europe not to endorse the United States' a ction: Europe as suc h needed to display ex8licit oppositio.",
+    "ground_truth": "It was not enough for Europe not to endorse the United States' action: Europe as such needed to display explicit opposition.",
+    "number_of_errors": 4
+  },
+  {
+    "id": 99,
+    "text": "Therefore, taki ng  into accpunt the regulatory changes due to Zthe Treaty of Lisbon, the size of the aviatMon markets within the EU and;Jhe US, which account for 60% of global air traffic, the need to respect the privacy of Europeanand US citizens, and the existencbe of rules ensuring respect for the rights of passengers, I welcome hthis rgreement.",
+    "ground_truth": "Therefore, taking into account the regulatory changes due to the Treaty of Lisbon, the size of the aviation markets within the EU and the US, which account for 60% of global air traffic, the need to respect the privacy of European and US citizens, and the existence of rules ensuring respect for the rights of passengers, I welcome this Agreement.",
+    "number_of_errors": 11
+  }
+]

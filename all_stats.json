@@ -1,0 +1,48 @@
+{
+  "norvig": {
+    "avg_elapsed_time_ms": 3155.923,
+    "avg_introduced_errors": 2.806,
+    "avg_error_rate": 0.019604478313605234,
+    "avg_accuracy_punct": 0.4501440020813556,
+    "avg_accuracy_no_punct": 0.6903040070813536,
+    "avg_WER": 0.4038963998610232,
+    "avg_avg_CER": 0.23919109061383334
+  },
+  "symspell": {
+    "avg_elapsed_time_ms": 1153.305,
+    "avg_introduced_errors": 2.806,
+    "avg_error_rate": 0.019604478313605234,
+    "avg_accuracy_punct": 0.48208465947496637,
+    "avg_accuracy_no_punct": 0.7388694366206052,
+    "avg_WER": 0.2531380291316056,
+    "avg_avg_CER": 0.15050475574173763
+  },
+  "bart": {
+    "avg_elapsed_time_ms": 641.379,
+    "avg_introduced_errors": 2.806,
+    "avg_error_rate": 0.019604478313605234,
+    "avg_accuracy_punct": 0.657657119996116,
+    "avg_accuracy_no_punct": 0.707719226544236,
+    "avg_WER": 0.4005575996175626,
+    "avg_avg_CER": 0.25545876393265865
+  },
+  "bart_norvig": {
+    "avg_elapsed_time_ms": 8971.528,
+    "avg_introduced_errors": 2.806,
+    "avg_error_rate": 0.019604478313605234,
+    "avg_accuracy_punct": 0.6648412394781343,
+    "avg_accuracy_no_punct": 0.7770120366862536,
+    "avg_WER": 0.2858420074869048,
+    "avg_avg_CER": 0.170369331612951
+  },
+  "bart_symspell": {
+    "avg_elapsed_time_ms": 1699.648,
+    "avg_introduced_errors": 2.806,
+    "avg_error_rate": 0.019604478313605234,
+    "avg_accuracy_punct": 0.6674896617883997,
+    "avg_accuracy_no_punct": 0.7802907040556607,
+    "avg_WER": 0.23380054367541558,
+    "avg_avg_CER": 0.13737111277841135
+  },
+  "count": 1000
+}
