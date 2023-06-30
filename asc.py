@@ -714,22 +714,3 @@ class OCRSpellChecker(AdvancedSpellChecker):
             return "\n".join([reader.pages[p].extract_text(0) for p in range(num_pages)])
         else:
             return reader.pages[page].extract_text(0)
-
-if __name__ == "__main__":
-    params = {
-        "max_new_tokens": 128,
-        "num_beams": 4,
-        "temperature": 0.5,
-        "max_edit_distance": 3,
-    }
-    ocr = OCRSpellChecker(**params)
-    #print(ocr.read_pdf_from_path("./data/PDF/2019-Lewis-BART.pdf", page=0))
-    with open("./data/old_books/ground_truth/a013.txt", 'r', encoding="UTF-8") as f:
-        gt_text = f.read()
-    print(gt_text)
-    text = ocr.read_image_from_path("./data/old_books/02_bin/a013.tiff")
-    c_text, stats = ocr.correct_with_strat_and_eval(text, gt_text, CorrectionStrategy.BART_SYMSPELL, measure_time=True)
-    #c_text = ocr.correct_with_strat_and(text, CorrectionStrategy.BART_SYMSPELL)
-    #print(len(text), len(c_text))
-    #print(c_text)
-    print(c_text, "\n", stats)
