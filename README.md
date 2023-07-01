@@ -13,6 +13,20 @@ Elisabetta Rocchetti, Dott.ssa Darya Shlyk
 > **_DISCLAIMER:_** no generative LLMs were used to write the project paper, nor
 the project presentation.
 
+# Getting started
+The project was developed using Python 3.9.0
+
+To install all the required libraries use: ```pip install -r requirements.txt```
+
+The main module is ```asc.py``` (Advanced Spell Checker), all external functions
+and classes are documented using docstrings.
+
+To create a custom dataset run ```create_dataset_json.py```, it is possible to change
+the parameters declared in the top part of the source code.
+
+To reproduce the results from the paper run ```evaluation.py``` or look at them 
+directly in the ```all_stats.json``` file.
+
 # [Make it clean (P9)](https://contents.islab.di.unimi.it/teaching/courseprojects/inforet-projects-2022-23.html#make-it-clean-p9)
 Depending on the quality of the original document, Optical Character Recognition (OCR) can produce a range of errors – from erroneous letters to additional and spurious blank spaces. This issue risks to compromise the effectiveness of the analysis tasks in support to the study of texts. Furthermore, the presence of multiple errors of different type in a certain text segment can introduce so much noise that the overall digitization process becomes useless.
 
