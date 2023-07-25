@@ -68,7 +68,7 @@ def clear_text(text: str, remove_punctuation=False) -> str:
     return clear_text if clear_text[-1] in string.punctuation else clear_text + "."
 
 def levenshtein_distance(s1: str, s2: str) -> int:
-    """Computes the Levenshtein distance between two string."""
+    """Computes the Levenshtein distance between two strings."""
     n, m = len(s1), len(s2)
     # Create an array of size n x m
     dp = [[0 for _ in range(m + 1)] for _ in range(n + 1)]
@@ -433,6 +433,8 @@ class AdvancedSpellChecker:
             return self.n_correction(text, verbose)
         elif strategy == CorrectionStrategy.SYMSPELL:
             return self.symspell_correction(text)
+        elif strategy == CorrectionStrategy.BART:
+            return self.correct_llm(text, verbose)
         elif strategy == CorrectionStrategy.BART_NORVIG:
             return self.correct(text, verbose)
         elif strategy == CorrectionStrategy.BART_SYMSPELL:
